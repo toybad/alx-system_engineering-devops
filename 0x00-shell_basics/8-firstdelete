@@ -1,7 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 rm /tmp/my_first_directory
 rm /tmp/my_first_directory
 =======
 >>>>>>> 8f27b74f2b17f5d9d117cab5670bd4daef18dcd2
 rm /tmp/my_first_directory/betty
+=======
+>>>>>>> 9e41ea4f7f97877e53068b0b46b4e4b58f523d18
